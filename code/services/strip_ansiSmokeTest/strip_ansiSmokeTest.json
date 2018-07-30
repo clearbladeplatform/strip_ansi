@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,strip_ansi",
+    "logging_enabled": "false",
+    "name": "strip_ansiSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "strip_ansiSmokeTest.js"
+}
